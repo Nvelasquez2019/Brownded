@@ -1,4 +1,4 @@
 # Brownded
-Brad=thing1
-Nikko=thing2
+Brad=thing2
+Nikko=thing1
 Brown=thing3
